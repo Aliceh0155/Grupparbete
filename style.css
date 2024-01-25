@@ -105,7 +105,7 @@ span {
   border-radius: 2px;
 }
 
-#prices{
+.prices{
   display: flex;
   font-size:large;
   padding: 10px;
